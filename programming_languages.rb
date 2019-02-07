@@ -1,5 +1,3 @@
-require 'pry'
-
 def reformat_languages(languages)
   languages_new = {}
   languages.each do |styles, names|
